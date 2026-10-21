@@ -1,4 +1,4 @@
-##🛍️ ShopEase — Responsive E-Commerce Website
+#🛍️ ShopEase — Responsive E-Commerce Website
 
 <p align="center">
   <strong>✨ Smart Shopping. Simple Living. ✨</strong>
