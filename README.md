@@ -1,4 +1,4 @@
-#🛍️ ShopEase — Responsive E-Commerce Website
+🛍️ ShopEase — Responsive E-Commerce Website
 
 <p align="center">
   <strong>✨ Smart Shopping. Simple Living. ✨</strong>
@@ -10,13 +10,13 @@
   <img src="https://img.shields.io/badge/JavaScript-Interactive-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
 </p>---
 
-##🌟 About the Project
+🌟 About the Project
 
 ShopEase is a beginner-friendly e-commerce website designed to provide a simple and convenient online shopping experience.
 
 Users can browse products, search for items, filter by category, add products to a shopping cart, remove items, and calculate the total price.
 
-##🎯 Project Objectives
+🎯 Project Objectives
 
 - Build an attractive and user-friendly shopping interface.
 - Create a responsive website for mobile, tablet, and desktop screens.
@@ -24,7 +24,7 @@ Users can browse products, search for items, filter by category, add products to
 - Implement interactive features using JavaScript.
 - Practise product search, filtering, and cart management.
 
-##✨ Key Features
+✨ Key Features
 
 - 🏠 Modern homepage and promotional banner.
 - 🛍️ Product cards with names, categories, and prices.
@@ -36,7 +36,7 @@ Users can browse products, search for items, filter by category, add products to
 - 📱 Responsive mobile-friendly layout.
 - 💬 Demo checkout interaction.
 
-##🛠️ Technologies Used
+🛠️ Technologies Used
 
 Technology| Purpose
 HTML5| Website structure
@@ -45,7 +45,7 @@ JavaScript| Search, filtering, and cart functionality
 Visual Studio Code| Code editor
 GitHub| Source code hosting
 
-##📂 Project Structure
+📂 Project Structure
 
 shopease-ecommerce/
 ├── index.html
@@ -53,7 +53,7 @@ shopease-ecommerce/
 ├── script.js
 └── README.md
 
-##🚀 How to Run the Project
+🚀 How to Run the Project
 
 1. Clone or download the repository.
 2. Open the project folder in Visual Studio Code.
@@ -62,7 +62,7 @@ shopease-ecommerce/
 
 No additional packages are required for this frontend version.
 
-##🧪 Testing
+🧪 Testing
 
 - Search for products by name.
 - Filter products by category.
@@ -71,7 +71,7 @@ No additional packages are required for this frontend version.
 - Test the website on mobile and desktop screens.
 - Verify the checkout demo with an empty and non-empty cart.
 
-##🔮 Future Enhancements
+🔮 Future Enhancements
 
 - 👤 User registration and login.
 - 🗄️ Backend and database integration.
@@ -84,7 +84,7 @@ No additional packages are required for this frontend version.
 
 This is a frontend demonstration project. Product data is stored in JavaScript, cart information is held in memory, and checkout is simulated. Real payments, persistent orders, and database integration have not been implemented.
 
-##🎓 Learning Outcomes
+🎓 Learning Outcomes
 
 - Learned to structure web pages using HTML.
 - Practised responsive layouts using CSS media queries.
@@ -92,9 +92,9 @@ This is a frontend demonstration project. Product data is stored in JavaScript, 
 - Implemented dynamic product rendering and cart calculations.
 - Learned to document and publish a project using GitHub.
 
-##👩‍💻 Author
+👩‍💻 Author
 
-Vaishnavi Reddy
+Your Name
 
 Full Stack Development Student
 
